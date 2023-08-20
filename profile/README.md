@@ -9,7 +9,7 @@ At Sylphus, we've crafted an online open source code editor that's as user-frien
 - **🔗 GitHub Magic**: Seamlessly link your GitHub repositories. Edit code and start going crazy on your creativity
 
 - **💻 Code Anywhere**: Code on the go with our real-time web interface. Syntax highlighting, auto-indentation, and code suggestions at your service.
-- 
+  
 - **🚀 Netlify Boost**: Launch your projects with Netlify right from our editor. Show off your creations to the world!
 
 ## 🚀 Ready to Roll?
