@@ -6,12 +6,10 @@ Welcome to **Sylphus**, where coding is a breeze and collaboration feels like a 
 
 At Sylphus, we've crafted an online open source code editor that's as user-friendly as your favorite playground. Here's what you can expect:
 
-- **🔗 GitHub Magic**: Seamlessly link your GitHub repositories. Edit code, commit changes, and manage branches all in one place.
+- **🔗 GitHub Magic**: Seamlessly link your GitHub repositories. Edit code and start going crazy on your creativity
 
 - **💻 Code Anywhere**: Code on the go with our real-time web interface. Syntax highlighting, auto-indentation, and code suggestions at your service.
-
-- **🤝 Team Power**: Collaborate like a pro! Create pull requests, review code changes, and merge with ease.
-
+- 
 - **🚀 Netlify Boost**: Launch your projects with Netlify right from our editor. Show off your creations to the world!
 
 ## 🚀 Ready to Roll?
@@ -36,5 +34,5 @@ Sylphus rocks the open source vibe and carries the MIT License. Check out the [L
 
 🌟 Happy Coding with Sylphus!
 
-[Launch Sylphus](https://firescryptgithubio.adhvaithprasad.repl.co/)
-[Explore Core Repository](https://github.com/sylphus-com/core)
+[<kbd> <br> Experience Sylphus ➜ <br> </kbd>]((https://firescryptgithubio.adhvaithprasad.repl.co/))
+[<kbd> <br> Self-Host ➜ <br> </kbd>](https://github.com/sylphus-com/core)
